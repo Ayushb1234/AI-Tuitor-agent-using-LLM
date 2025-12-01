@@ -100,17 +100,9 @@ npm run dev
 <img width="1303" height="661" alt="image" src="https://github.com/user-attachments/assets/6b457c6d-9a06-43ee-b8ae-5318de4bc9df" />
 
 
-🖼️ Add screenshots or GIFs here when UI is ready.
 
-Document upload screen
-
-AI-generated chapters
-
-Whiteboard learning
-
-Voice-based interaction
-
-📚 Future Enhancements
+## 📚 Future Enhancements
+-----------------------------
 
 🧬 Adaptive Learning Model (difficulty scoring)
 
@@ -120,11 +112,13 @@ Voice-based interaction
 
 🧩 Offline Mode
 
-🤝 Contributing
+##🤝 Contributing
+--------------------
 
 Pull requests are welcome! For major changes, please open an issue to discuss your idea first.
 
-📄 License
+## 📄 License
+-----------------
 
 MIT License — free to use, modify, and build on.
 
