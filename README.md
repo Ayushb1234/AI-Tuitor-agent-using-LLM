@@ -112,7 +112,7 @@ npm run dev
 
 🧩 Offline Mode
 
-##🤝 Contributing
+## 🤝 Contributing
 --------------------
 
 Pull requests are welcome! For major changes, please open an issue to discuss your idea first.
@@ -122,7 +122,8 @@ Pull requests are welcome! For major changes, please open an issue to discuss yo
 
 MIT License — free to use, modify, and build on.
 
-✨ Author
+## ✨ Author
+--------------
 
 Ayush Choudhary
 🚀 AI/ML Developer | Backend Engineer | NLP Enthusiast
