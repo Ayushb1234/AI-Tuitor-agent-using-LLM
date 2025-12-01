@@ -92,7 +92,13 @@ cd frontend
 npm run dev
 ```
 
-🎮 Demo & Screenshots
+## 🎮 Demo & Screenshots
+-------------------------
+
+<img width="1898" height="955" alt="image" src="https://github.com/user-attachments/assets/2da18f01-f61c-40a4-b584-50608882daf4" />
+
+<img width="1303" height="661" alt="image" src="https://github.com/user-attachments/assets/6b457c6d-9a06-43ee-b8ae-5318de4bc9df" />
+
 
 🖼️ Add screenshots or GIFs here when UI is ready.
 
